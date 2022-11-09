@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ruairí
+# 👋 Hi, I’m Ruairí
 - 👀 I’m interested in UI/UX design and creative coding
 - 🌱 I’m currently learning Figma, C# and JS
 - 📫 How to reach me roryhorgan97@gmail.com

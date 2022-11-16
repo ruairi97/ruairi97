@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ruairí</h1>
 <h3 align="center">Recent Interactive Media graduate pursuing a career in UX</h3>
-<img align=“right” width=“400” src="https://i.ibb.co/GVdWQ0R/Screenshot-2022-11-16-at-12-12-15.png" alt="Screenshot-2022-11-16-at-12-12-15" border="0">>
+<img align=“right” width=“400” src="https://i.ibb.co/GVdWQ0R/Screenshot-2022-11-16-at-12-12-15.png" alt="Screenshot-2022-11-16-at-12-12-15" border="0">
 
 
 - 🌱 I’m currently learning **Figma, C# and JS**
